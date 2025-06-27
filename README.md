@@ -1,6 +1,5 @@
 ## Hi there 👋
 
 ### 📫 Get in touch
-- 📧 Email: [hi@kagizi.com](mailto:hi@kagizi.com)
-- 🐦 X (Twitter): [@kagiziii](https://x.com/kagiziii)
+- 📧 Email: [hi@ilyasa.me](mailto:hi@ilyasa.me)
 - 💬 Discord: `@kagizi`
